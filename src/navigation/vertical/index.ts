@@ -72,7 +72,7 @@ const navigation = (): VerticalNavItemsType => {
       icon: Telegram, 
       externalLink: true,
       openInNewTab: true,
-      path: 'https:/t.me/OxJARVISERC'
+      path: 'https://t.me/OxJARVISERC'
     }, 
     {
       title: 'Tokenomics',
